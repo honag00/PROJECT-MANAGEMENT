@@ -1,0 +1,8 @@
+Vì code của chúng em khá nặng nên chúng em nộp code bằng link, thầy tải code qua link GitHub hoặc link google drive đều được ạ
+
+GitHub:
+  frontend: https://github.com/RKPH/mangaApp
+  backend: https://github.com/RKPH/MangaAppBackEnd
+
+google drive: 
+   https://drive.google.com/drive/folders/1ym4r7GZXvu7aLl1e4bf_tDz_6b7jYb-P?usp=sharing
